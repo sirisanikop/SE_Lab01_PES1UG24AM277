@@ -1,0 +1,1 @@
+tournament_scoreboard.py:86:80: E501 line too long (80 > 79 characters)
